@@ -1,3 +1,7 @@
+## Issue report
+
+https://github.com/vercel/next.js/issues/39722
+
 ## To reproduce
 
 1- `npm run build`
